@@ -1,0 +1,18 @@
+body {
+    background-size:cover;
+}
+
+hr {
+    border-top: 10px solid red;
+    border-radius: 5px;;
+}
+
+strong {
+    color:red;
+}
+
+input {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px;
+}
